@@ -83,6 +83,17 @@ body {
     box-shadow: 0 10px 20px rgba(0,0,0,0.5);
 }
 
+#tobe, #roadmap {
+  padding: 60px 20px;
+}
+
+.roadmap-item {
+  background: #1e1e1e;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 10px;
+}
+
 @media (max-width: 768px) {
     .skills-container {
         flex-direction: column;
